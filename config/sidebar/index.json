@@ -77,11 +77,6 @@
       "title": "Tina.io",
       "href": "https://tina.io/",
       "_template": "link"
-    },
-    {
-      "title": "카테고리테스트",
-      "link": "none",
-      "_template": "category"
     }
   ]
 }
