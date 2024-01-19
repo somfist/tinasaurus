@@ -2,10 +2,6 @@
   "label": "Docs Sidebar",
   "items": [
     {
-      "link": "none",
-      "_template": "category"
-    },
-    {
       "document": "docs/intro.mdx",
       "_template": "doc"
     },
@@ -81,6 +77,11 @@
       "title": "Tina.io",
       "href": "https://tina.io/",
       "_template": "link"
+    },
+    {
+      "title": "카테고리테스트",
+      "link": "generated",
+      "_template": "category"
     }
   ]
 }
